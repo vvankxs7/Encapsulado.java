@@ -1,8 +1,9 @@
 # Encapsulado.java
 Exercicos usando modificadores
 
-compilar: Javac Aluno2.java
+compilar: Javac Cliente.java
 
 complicar e executar:
-javac DemoAluno2.java
-java DemoAluno2
+javac DemoCliente.java
+java DemoCliente
+

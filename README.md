@@ -1,5 +1,9 @@
 # Encapsulado.java
-Exercicos usando modificadores
+Exercícios usando modificadores
+
+Linguagem: Java.
+​Segurança de Dados: Encapsulamento.
+​Boas Práticas: Métodos de acesso (Getters/Setters).
 
 compilar: Javac Cliente.java
 
